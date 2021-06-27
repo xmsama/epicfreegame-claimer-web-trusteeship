@@ -15,6 +15,8 @@
 3. 更改api/conn.php中的数据库用户密码及数据库
 4. 更改httpd.conf中的DocumentRoot为你的路径
 5. 将数据库文件(.sql)运行
+6. 将PHP配置到环境变量PATH
+7. 运行runtask.bat开始循环领取游戏（循环时间可以在runtask.php中修改）
 
 
 
