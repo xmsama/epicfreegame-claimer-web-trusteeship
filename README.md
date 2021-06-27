@@ -12,11 +12,12 @@
 ## 快速部署教程
 1. 下载或clone仓库
 2. npm install（[epicgames-freebies-claimer-1.5.2]国内用户可以使用cnpm 具体用法请自行搜索）
-3. 更改api/conn.php中的数据库用户密码及数据库
-4. 更改httpd.conf中的DocumentRoot为你的路径
-5. 将数据库文件(.sql)运行
-6. 将PHP配置到环境变量PATH
-7. 运行runtask.bat开始循环领取游戏（循环时间可以在runtask.php中修改）
+3. 更改claimer.js中的数据库连接信息
+4. 更改api/conn.php中的数据库用户密码及数据库
+5. 更改httpd.conf中的DocumentRoot为你的路径
+6. 将数据库文件(.sql)运行
+7. 将PHP配置到环境变量PATH
+8. 运行runtask.bat开始循环领取游戏（循环时间可以在runtask.php中修改）
 
 
 
