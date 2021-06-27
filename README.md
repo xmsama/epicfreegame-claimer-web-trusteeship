@@ -1,3 +1,5 @@
+# GIT真勾八不好用
+
 # EPIC免费游戏web领取托管
 项目创意来源于: [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer).
 
