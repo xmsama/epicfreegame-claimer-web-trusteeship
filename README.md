@@ -11,7 +11,7 @@
 - [XAMPP7.4.16版本](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.16/)(快速部署APACHE+MYSQL环境)
 ## 快速部署教程
 1. 下载或clone仓库
-2. npm install（国内用户可以使用cnpm 具体用法请自行搜索）
+2. npm install（[epicgames-freebies-claimer-1.5.2]国内用户可以使用cnpm 具体用法请自行搜索）
 3. 更改api/conn.php中的数据库用户密码及数据库
 4. 更改httpd.conf中的DocumentRoot为你的路径
 5. 将数据库文件(.sql)运行
