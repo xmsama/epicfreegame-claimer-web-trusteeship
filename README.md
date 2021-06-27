@@ -1,5 +1,6 @@
 # GIT真勾八不好用
 [项目示例网站](http://xiaoming.xmsama.cn:88)
+其实项目里面的大多数js是没有用的 懒得删而已
 # EPIC免费游戏web领取托管
 项目创意来源于: [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer).
 
